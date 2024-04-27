@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  background-color: red;
+}
+
+.container {
+  background-color: blue;
+  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+@media screen and (max-width: 576px) {
+    .container{
+      background-color: #000;
+      color: #fff;
+    }
+    .box{
+    background-color: red;
+    }
+}

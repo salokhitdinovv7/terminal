@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.logo-image {
+    margin-left: 50px;
+  width: 140px;
+  height: 31px;
+  top: 23px;
+  padding: 0px 0px 0.05px 0.03px;
+  gap: 0px;
+  opacity: 0px;
+}
+.main {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  list-style: none;
+}
+.main-li {
+}
+.main-a {
+  text-decoration: none;
+}
+.btn {
+  width: 114px;
+  height: 40px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Work Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: center;
+  padding: 11px 17px;
+  margin-right: 179px;
+  background-color: yellow;
+}
+.bnt {
+  margin-left: 96px;
+  width: 75px;
+  height: 40px;
+  left: 122px;
+  gap: 0px;
+  opacity: 0px;
+  padding: 11px 17px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img {
+  margin-left: 50px;
+}
+
+.bg-images {
+  background-image: url("./Rectangle\ \(2\).png");
+  width: 100%;
+  height: 850px;
+  background: cover;
+  background-repeat: no-repeat;
+  margin-left: 40px;
+}
+.cont2{
+  display: flex;
+  padding: 50px 100px;
+  background: hsla(194, 97%, 15%, 1);
+  justify-content: space-between;
+}
+.box1 {
+  color: #fff;
+}
+.box1 h2{
+  font-size: 57px;
+}
+.box1 p{
+  margin-top: 20px;
+  font-size: 20px;
+}
+.fr{
+  background: hsla(42, 100%, 69%, 1);
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.cont3{
+  background-image: url('./Rectangle\ \(9\).png');
+  height: 2434px;
+}
+.box3 h2{
+  font-size: 75px;
+  margin-top: 23px;
+}
+.box3 p{
+  margin-top: 23px;
+  font-size: 28px;
+}
+.box3 button{
+  padding: 10px 20px;
+  background: hsla(194, 97%, 15%, 1);
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.box3{
+  margin-left: 700px;
+  margin-top: 90px;
+}
+.box4 h2{
+  font-size: 75px;
+  margin-top: 23px;
+}
+.box4 p{
+  margin-top: 23px;
+  font-size: 28px;
+}
+.box4 button{
+  padding: 10px 20px;
+  background: hsla(194, 97%, 15%, 1);
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.box4{
+  margin-left: 100px;
+  margin-top: 100px;
+}
